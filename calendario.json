@@ -1,7 +1,7 @@
 [
  {
   "orden": 1,
-  "fecha": "2026-10-28",
+  "fecha": "2026-10-27",
   "carpeta": "001_EX2-MED-001",
   "universidad": "UV",
   "id": "EX2-MED-001",
@@ -9,7 +9,7 @@
  },
  {
   "orden": 2,
-  "fecha": "2026-10-29",
+  "fecha": "2026-10-28",
   "carpeta": "002_EX2-QORG-001",
   "universidad": "UAEH",
   "id": "EX2-QORG-001",
@@ -17,7 +17,7 @@
  },
  {
   "orden": 3,
-  "fecha": "2026-10-30",
+  "fecha": "2026-10-29",
   "carpeta": "003_EX2-CDS-001",
   "universidad": "UANL",
   "id": "EX2-CDS-001",
@@ -25,7 +25,7 @@
  },
  {
   "orden": 4,
-  "fecha": "2026-10-31",
+  "fecha": "2026-10-30",
   "carpeta": "004_EX2-BIO-001",
   "universidad": "UV",
   "id": "EX2-BIO-001",
@@ -33,7 +33,7 @@
  },
  {
   "orden": 5,
-  "fecha": "2026-11-01",
+  "fecha": "2026-10-31",
   "carpeta": "005_EX2-MED-002",
   "universidad": "UADY",
   "id": "EX2-MED-002",
@@ -41,7 +41,7 @@
  },
  {
   "orden": 6,
-  "fecha": "2026-11-02",
+  "fecha": "2026-11-01",
   "carpeta": "006_EX2-QORG-002",
   "universidad": "UACH",
   "id": "EX2-QORG-002",
@@ -49,7 +49,7 @@
  },
  {
   "orden": 7,
-  "fecha": "2026-11-03",
+  "fecha": "2026-11-02",
   "carpeta": "007_EX2-CDS-002",
   "universidad": "UANL",
   "id": "EX2-CDS-002",
@@ -57,7 +57,7 @@
  },
  {
   "orden": 8,
-  "fecha": "2026-11-04",
+  "fecha": "2026-11-03",
   "carpeta": "008_EX2-BIO-002",
   "universidad": "UV",
   "id": "EX2-BIO-002",
@@ -65,7 +65,7 @@
  },
  {
   "orden": 9,
-  "fecha": "2026-11-05",
+  "fecha": "2026-11-04",
   "carpeta": "009_EX2-MED-003",
   "universidad": "UAEH",
   "id": "EX2-MED-003",
@@ -73,7 +73,7 @@
  },
  {
   "orden": 10,
-  "fecha": "2026-11-06",
+  "fecha": "2026-11-05",
   "carpeta": "010_EX2-QORG-003",
   "universidad": "UADY",
   "id": "EX2-QORG-003",
@@ -81,7 +81,7 @@
  },
  {
   "orden": 11,
-  "fecha": "2026-11-07",
+  "fecha": "2026-11-06",
   "carpeta": "011_EX2-CDS-003",
   "universidad": "UANL",
   "id": "EX2-CDS-003",
@@ -89,7 +89,7 @@
  },
  {
   "orden": 12,
-  "fecha": "2026-11-08",
+  "fecha": "2026-11-07",
   "carpeta": "012_EX2-BIO-003",
   "universidad": "UV",
   "id": "EX2-BIO-003",
@@ -97,7 +97,7 @@
  },
  {
   "orden": 13,
-  "fecha": "2026-11-09",
+  "fecha": "2026-11-08",
   "carpeta": "013_EX2-MED-004",
   "universidad": "UACH",
   "id": "EX2-MED-004",
@@ -105,7 +105,7 @@
  },
  {
   "orden": 14,
-  "fecha": "2026-11-10",
+  "fecha": "2026-11-09",
   "carpeta": "014_EX2-QORG-004",
   "universidad": "BUAP",
   "id": "EX2-QORG-004",
@@ -113,7 +113,7 @@
  },
  {
   "orden": 15,
-  "fecha": "2026-11-11",
+  "fecha": "2026-11-10",
   "carpeta": "015_EX2-CDS-004",
   "universidad": "UANL",
   "id": "EX2-CDS-004",
@@ -121,7 +121,7 @@
  },
  {
   "orden": 16,
-  "fecha": "2026-11-12",
+  "fecha": "2026-11-11",
   "carpeta": "016_EX2-BIO-004",
   "universidad": "UV",
   "id": "EX2-BIO-004",
@@ -129,7 +129,7 @@
  },
  {
   "orden": 17,
-  "fecha": "2026-11-13",
+  "fecha": "2026-11-12",
   "carpeta": "017_EX2-MED-005",
   "universidad": "UAEH",
   "id": "EX2-MED-005",
@@ -137,7 +137,7 @@
  },
  {
   "orden": 18,
-  "fecha": "2026-11-14",
+  "fecha": "2026-11-13",
   "carpeta": "018_EX2-QORG-005",
   "universidad": "UADY",
   "id": "EX2-QORG-005",
@@ -145,7 +145,7 @@
  },
  {
   "orden": 19,
-  "fecha": "2026-11-15",
+  "fecha": "2026-11-14",
   "carpeta": "019_EX2-CDS-005",
   "universidad": "UANL",
   "id": "EX2-CDS-005",
@@ -153,7 +153,7 @@
  },
  {
   "orden": 20,
-  "fecha": "2026-11-16",
+  "fecha": "2026-11-15",
   "carpeta": "020_EX2-BIO-005",
   "universidad": "UACH",
   "id": "EX2-BIO-005",
@@ -161,7 +161,7 @@
  },
  {
   "orden": 21,
-  "fecha": "2026-11-17",
+  "fecha": "2026-11-16",
   "carpeta": "021_EX2-MED-006",
   "universidad": "BUAP",
   "id": "EX2-MED-006",
@@ -169,7 +169,7 @@
  },
  {
   "orden": 22,
-  "fecha": "2026-11-18",
+  "fecha": "2026-11-17",
   "carpeta": "022_EX2-QORG-006",
   "universidad": "UAEH",
   "id": "EX2-QORG-006",
@@ -177,7 +177,7 @@
  },
  {
   "orden": 23,
-  "fecha": "2026-11-19",
+  "fecha": "2026-11-18",
   "carpeta": "023_EX2-CDS-006",
   "universidad": "UANL",
   "id": "EX2-CDS-006",
@@ -185,7 +185,7 @@
  },
  {
   "orden": 24,
-  "fecha": "2026-11-20",
+  "fecha": "2026-11-19",
   "carpeta": "024_EX2-BIO-006",
   "universidad": "UV",
   "id": "EX2-BIO-006",
@@ -193,7 +193,7 @@
  },
  {
   "orden": 25,
-  "fecha": "2026-11-21",
+  "fecha": "2026-11-20",
   "carpeta": "025_EX2-MED-007",
   "universidad": "UADY",
   "id": "EX2-MED-007",
@@ -201,7 +201,7 @@
  },
  {
   "orden": 26,
-  "fecha": "2026-11-22",
+  "fecha": "2026-11-21",
   "carpeta": "026_EX2-QORG-007",
   "universidad": "UACH",
   "id": "EX2-QORG-007",
@@ -209,7 +209,7 @@
  },
  {
   "orden": 27,
-  "fecha": "2026-11-23",
+  "fecha": "2026-11-22",
   "carpeta": "027_EX2-CDS-007",
   "universidad": "UANL",
   "id": "EX2-CDS-007",
@@ -217,7 +217,7 @@
  },
  {
   "orden": 28,
-  "fecha": "2026-11-24",
+  "fecha": "2026-11-23",
   "carpeta": "028_EX2-BIO-007",
   "universidad": "BUAP",
   "id": "EX2-BIO-007",
@@ -225,7 +225,7 @@
  },
  {
   "orden": 29,
-  "fecha": "2026-11-25",
+  "fecha": "2026-11-24",
   "carpeta": "029_EX2-MED-008",
   "universidad": "UV",
   "id": "EX2-MED-008",
@@ -233,7 +233,7 @@
  },
  {
   "orden": 30,
-  "fecha": "2026-11-26",
+  "fecha": "2026-11-25",
   "carpeta": "030_EX2-QORG-008",
   "universidad": "UAEH",
   "id": "EX2-QORG-008",
@@ -241,7 +241,7 @@
  },
  {
   "orden": 31,
-  "fecha": "2026-11-27",
+  "fecha": "2026-11-26",
   "carpeta": "031_EX2-CDS-008",
   "universidad": "UANL",
   "id": "EX2-CDS-008",
@@ -249,7 +249,7 @@
  },
  {
   "orden": 32,
-  "fecha": "2026-11-28",
+  "fecha": "2026-11-27",
   "carpeta": "032_EX2-BIO-008",
   "universidad": "UADY",
   "id": "EX2-BIO-008",
@@ -257,7 +257,7 @@
  },
  {
   "orden": 33,
-  "fecha": "2026-11-29",
+  "fecha": "2026-11-28",
   "carpeta": "033_EX2-MED-009",
   "universidad": "UACH",
   "id": "EX2-MED-009",
@@ -265,7 +265,7 @@
  },
  {
   "orden": 34,
-  "fecha": "2026-11-30",
+  "fecha": "2026-11-29",
   "carpeta": "034_EX2-QORG-009",
   "universidad": "BUAP",
   "id": "EX2-QORG-009",
@@ -273,7 +273,7 @@
  },
  {
   "orden": 35,
-  "fecha": "2026-12-01",
+  "fecha": "2026-11-30",
   "carpeta": "035_EX2-CDS-009",
   "universidad": "UANL",
   "id": "EX2-CDS-009",
@@ -281,7 +281,7 @@
  },
  {
   "orden": 36,
-  "fecha": "2026-12-02",
+  "fecha": "2026-12-01",
   "carpeta": "036_EX2-BIO-009",
   "universidad": "UAEH",
   "id": "EX2-BIO-009",
@@ -289,7 +289,7 @@
  },
  {
   "orden": 37,
-  "fecha": "2026-12-03",
+  "fecha": "2026-12-02",
   "carpeta": "037_EX2-MED-010",
   "universidad": "UADY",
   "id": "EX2-MED-010",
@@ -297,7 +297,7 @@
  },
  {
   "orden": 38,
-  "fecha": "2026-12-04",
+  "fecha": "2026-12-03",
   "carpeta": "038_EX2-QORG-010",
   "universidad": "UACH",
   "id": "EX2-QORG-010",
@@ -305,7 +305,7 @@
  },
  {
   "orden": 39,
-  "fecha": "2026-12-05",
+  "fecha": "2026-12-04",
   "carpeta": "039_EX2-CDS-010",
   "universidad": "UANL",
   "id": "EX2-CDS-010",
@@ -313,7 +313,7 @@
  },
  {
   "orden": 40,
-  "fecha": "2026-12-06",
+  "fecha": "2026-12-05",
   "carpeta": "040_EX2-BIO-010",
   "universidad": "BUAP",
   "id": "EX2-BIO-010",
@@ -321,7 +321,7 @@
  },
  {
   "orden": 41,
-  "fecha": "2026-12-07",
+  "fecha": "2026-12-06",
   "carpeta": "041_EX2-MED-011",
   "universidad": "UV",
   "id": "EX2-MED-011",
@@ -329,7 +329,7 @@
  },
  {
   "orden": 42,
-  "fecha": "2026-12-08",
+  "fecha": "2026-12-07",
   "carpeta": "042_EX2-QORG-011",
   "universidad": "UAEH",
   "id": "EX2-QORG-011",
@@ -337,7 +337,7 @@
  },
  {
   "orden": 43,
-  "fecha": "2026-12-09",
+  "fecha": "2026-12-08",
   "carpeta": "043_EX2-CDS-011",
   "universidad": "UANL",
   "id": "EX2-CDS-011",
@@ -345,7 +345,7 @@
  },
  {
   "orden": 44,
-  "fecha": "2026-12-10",
+  "fecha": "2026-12-09",
   "carpeta": "044_EX2-BIO-011",
   "universidad": "UADY",
   "id": "EX2-BIO-011",
@@ -353,7 +353,7 @@
  },
  {
   "orden": 45,
-  "fecha": "2026-12-11",
+  "fecha": "2026-12-10",
   "carpeta": "045_EX2-MED-012",
   "universidad": "UACH",
   "id": "EX2-MED-012",
@@ -361,7 +361,7 @@
  },
  {
   "orden": 46,
-  "fecha": "2026-12-12",
+  "fecha": "2026-12-11",
   "carpeta": "046_EX2-QORG-012",
   "universidad": "BUAP",
   "id": "EX2-QORG-012",
@@ -369,7 +369,7 @@
  },
  {
   "orden": 47,
-  "fecha": "2026-12-13",
+  "fecha": "2026-12-12",
   "carpeta": "047_EX2-CDS-012",
   "universidad": "UANL",
   "id": "EX2-CDS-012",
@@ -377,7 +377,7 @@
  },
  {
   "orden": 48,
-  "fecha": "2026-12-14",
+  "fecha": "2026-12-13",
   "carpeta": "048_EX2-BIO-012",
   "universidad": "UV",
   "id": "EX2-BIO-012",
@@ -385,7 +385,7 @@
  },
  {
   "orden": 49,
-  "fecha": "2026-12-15",
+  "fecha": "2026-12-14",
   "carpeta": "049_EX2-MED-013",
   "universidad": "UAEH",
   "id": "EX2-MED-013",
@@ -393,7 +393,7 @@
  },
  {
   "orden": 50,
-  "fecha": "2026-12-16",
+  "fecha": "2026-12-15",
   "carpeta": "050_EX2-QORG-013",
   "universidad": "UADY",
   "id": "EX2-QORG-013",
@@ -401,7 +401,7 @@
  },
  {
   "orden": 51,
-  "fecha": "2026-12-17",
+  "fecha": "2026-12-16",
   "carpeta": "051_EX2-CDS-013",
   "universidad": "UACH",
   "id": "EX2-CDS-013",
@@ -409,7 +409,7 @@
  },
  {
   "orden": 52,
-  "fecha": "2026-12-18",
+  "fecha": "2026-12-17",
   "carpeta": "052_EX2-BIO-013",
   "universidad": "BUAP",
   "id": "EX2-BIO-013",
@@ -417,7 +417,7 @@
  },
  {
   "orden": 53,
-  "fecha": "2026-12-19",
+  "fecha": "2026-12-18",
   "carpeta": "053_EX2-MED-014",
   "universidad": "UV",
   "id": "EX2-MED-014",
@@ -425,7 +425,7 @@
  },
  {
   "orden": 54,
-  "fecha": "2026-12-20",
+  "fecha": "2026-12-19",
   "carpeta": "054_EX2-QORG-014",
   "universidad": "UAEH",
   "id": "EX2-QORG-014",
@@ -433,7 +433,7 @@
  },
  {
   "orden": 55,
-  "fecha": "2026-12-21",
+  "fecha": "2026-12-20",
   "carpeta": "055_EX2-CDS-014",
   "universidad": "UANL",
   "id": "EX2-CDS-014",
@@ -441,7 +441,7 @@
  },
  {
   "orden": 56,
-  "fecha": "2026-12-22",
+  "fecha": "2026-12-21",
   "carpeta": "056_EX2-BIO-014",
   "universidad": "UADY",
   "id": "EX2-BIO-014",
@@ -449,7 +449,7 @@
  },
  {
   "orden": 57,
-  "fecha": "2026-12-23",
+  "fecha": "2026-12-22",
   "carpeta": "057_EX2-MED-015",
   "universidad": "UACH",
   "id": "EX2-MED-015",
@@ -457,7 +457,7 @@
  },
  {
   "orden": 58,
-  "fecha": "2026-12-24",
+  "fecha": "2026-12-23",
   "carpeta": "058_EX2-QORG-015",
   "universidad": "BUAP",
   "id": "EX2-QORG-015",
@@ -465,7 +465,7 @@
  },
  {
   "orden": 59,
-  "fecha": "2026-12-25",
+  "fecha": "2026-12-24",
   "carpeta": "059_EX2-CDS-015",
   "universidad": "UAEH",
   "id": "EX2-CDS-015",
@@ -473,7 +473,7 @@
  },
  {
   "orden": 60,
-  "fecha": "2026-12-26",
+  "fecha": "2026-12-25",
   "carpeta": "060_EX2-BIO-015",
   "universidad": "UADY",
   "id": "EX2-BIO-015",
@@ -481,7 +481,7 @@
  },
  {
   "orden": 61,
-  "fecha": "2026-12-27",
+  "fecha": "2026-12-26",
   "carpeta": "061_EX2-MED-016",
   "universidad": "UACH",
   "id": "EX2-MED-016",
@@ -489,7 +489,7 @@
  },
  {
   "orden": 62,
-  "fecha": "2026-12-28",
+  "fecha": "2026-12-27",
   "carpeta": "062_EX2-QORG-016",
   "universidad": "BUAP",
   "id": "EX2-QORG-016",
@@ -497,7 +497,7 @@
  },
  {
   "orden": 63,
-  "fecha": "2026-12-29",
+  "fecha": "2026-12-28",
   "carpeta": "063_EX2-CDS-016",
   "universidad": "UV",
   "id": "EX2-CDS-016",
@@ -505,7 +505,7 @@
  },
  {
   "orden": 64,
-  "fecha": "2026-12-30",
+  "fecha": "2026-12-29",
   "carpeta": "064_EX2-BIO-016",
   "universidad": "UANL",
   "id": "EX2-BIO-016",
@@ -513,7 +513,7 @@
  },
  {
   "orden": 65,
-  "fecha": "2026-12-31",
+  "fecha": "2026-12-30",
   "carpeta": "065_EX2-MED-017",
   "universidad": "UAEH",
   "id": "EX2-MED-017",
@@ -521,7 +521,7 @@
  },
  {
   "orden": 66,
-  "fecha": "2027-01-01",
+  "fecha": "2026-12-31",
   "carpeta": "066_EX2-QORG-017",
   "universidad": "UADY",
   "id": "EX2-QORG-017",
@@ -529,7 +529,7 @@
  },
  {
   "orden": 67,
-  "fecha": "2027-01-02",
+  "fecha": "2027-01-01",
   "carpeta": "067_EX2-CDS-017",
   "universidad": "UACH",
   "id": "EX2-CDS-017",
@@ -537,7 +537,7 @@
  },
  {
   "orden": 68,
-  "fecha": "2027-01-03",
+  "fecha": "2027-01-02",
   "carpeta": "068_EX2-BIO-017",
   "universidad": "BUAP",
   "id": "EX2-BIO-017",
@@ -545,7 +545,7 @@
  },
  {
   "orden": 69,
-  "fecha": "2027-01-04",
+  "fecha": "2027-01-03",
   "carpeta": "069_EX2-MED-018",
   "universidad": "UV",
   "id": "EX2-MED-018",
@@ -553,7 +553,7 @@
  },
  {
   "orden": 70,
-  "fecha": "2027-01-05",
+  "fecha": "2027-01-04",
   "carpeta": "070_EX2-QORG-018",
   "universidad": "UAEH",
   "id": "EX2-QORG-018",
@@ -561,7 +561,7 @@
  },
  {
   "orden": 71,
-  "fecha": "2027-01-06",
+  "fecha": "2027-01-05",
   "carpeta": "071_EX2-CDS-018",
   "universidad": "UADY",
   "id": "EX2-CDS-018",
@@ -569,7 +569,7 @@
  },
  {
   "orden": 72,
-  "fecha": "2027-01-07",
+  "fecha": "2027-01-06",
   "carpeta": "072_EX2-BIO-018",
   "universidad": "UACH",
   "id": "EX2-BIO-018",
@@ -577,7 +577,7 @@
  },
  {
   "orden": 73,
-  "fecha": "2027-01-08",
+  "fecha": "2027-01-07",
   "carpeta": "073_EX2-MED-019",
   "universidad": "BUAP",
   "id": "EX2-MED-019",
@@ -585,7 +585,7 @@
  },
  {
   "orden": 74,
-  "fecha": "2027-01-09",
+  "fecha": "2027-01-08",
   "carpeta": "074_EX2-QORG-019",
   "universidad": "UAEH",
   "id": "EX2-QORG-019",
@@ -593,7 +593,7 @@
  },
  {
   "orden": 75,
-  "fecha": "2027-01-10",
+  "fecha": "2027-01-09",
   "carpeta": "075_EX2-CDS-019",
   "universidad": "UANL",
   "id": "EX2-CDS-019",
@@ -601,7 +601,7 @@
  },
  {
   "orden": 76,
-  "fecha": "2027-01-11",
+  "fecha": "2027-01-10",
   "carpeta": "076_EX2-BIO-019",
   "universidad": "UV",
   "id": "EX2-BIO-019",
@@ -609,7 +609,7 @@
  },
  {
   "orden": 77,
-  "fecha": "2027-01-12",
+  "fecha": "2027-01-11",
   "carpeta": "077_EX2-MED-020",
   "universidad": "UADY",
   "id": "EX2-MED-020",
@@ -617,7 +617,7 @@
  },
  {
   "orden": 78,
-  "fecha": "2027-01-13",
+  "fecha": "2027-01-12",
   "carpeta": "078_EX2-QORG-020",
   "universidad": "UACH",
   "id": "EX2-QORG-020",
@@ -625,7 +625,7 @@
  },
  {
   "orden": 79,
-  "fecha": "2027-01-14",
+  "fecha": "2027-01-13",
   "carpeta": "079_EX2-CDS-020",
   "universidad": "BUAP",
   "id": "EX2-CDS-020",
@@ -633,7 +633,7 @@
  },
  {
   "orden": 80,
-  "fecha": "2027-01-15",
+  "fecha": "2027-01-14",
   "carpeta": "080_EX2-BIO-020",
   "universidad": "UAEH",
   "id": "EX2-BIO-020",
@@ -641,7 +641,7 @@
  },
  {
   "orden": 81,
-  "fecha": "2027-01-16",
+  "fecha": "2027-01-15",
   "carpeta": "081_EX2-MED-021",
   "universidad": "UADY",
   "id": "EX2-MED-021",
@@ -649,7 +649,7 @@
  },
  {
   "orden": 82,
-  "fecha": "2027-01-17",
+  "fecha": "2027-01-16",
   "carpeta": "082_EX2-QORG-021",
   "universidad": "UACH",
   "id": "EX2-QORG-021",
@@ -657,7 +657,7 @@
  },
  {
   "orden": 83,
-  "fecha": "2027-01-18",
+  "fecha": "2027-01-17",
   "carpeta": "083_EX2-CDS-021",
   "universidad": "BUAP",
   "id": "EX2-CDS-021",
@@ -665,7 +665,7 @@
  },
  {
   "orden": 84,
-  "fecha": "2027-01-19",
+  "fecha": "2027-01-18",
   "carpeta": "084_EX2-BIO-021",
   "universidad": "UV",
   "id": "EX2-BIO-021",
@@ -673,7 +673,7 @@
  },
  {
   "orden": 85,
-  "fecha": "2027-01-20",
+  "fecha": "2027-01-19",
   "carpeta": "085_EX2-MED-022",
   "universidad": "UAEH",
   "id": "EX2-MED-022",
@@ -681,7 +681,7 @@
  },
  {
   "orden": 86,
-  "fecha": "2027-01-21",
+  "fecha": "2027-01-20",
   "carpeta": "086_EX2-QORG-022",
   "universidad": "UADY",
   "id": "EX2-QORG-022",
@@ -689,7 +689,7 @@
  },
  {
   "orden": 87,
-  "fecha": "2027-01-22",
+  "fecha": "2027-01-21",
   "carpeta": "087_EX2-CDS-022",
   "universidad": "UANL",
   "id": "EX2-CDS-022",
@@ -697,7 +697,7 @@
  },
  {
   "orden": 88,
-  "fecha": "2027-01-23",
+  "fecha": "2027-01-22",
   "carpeta": "088_EX2-BIO-022",
   "universidad": "UACH",
   "id": "EX2-BIO-022",
@@ -705,7 +705,7 @@
  },
  {
   "orden": 89,
-  "fecha": "2027-01-24",
+  "fecha": "2027-01-23",
   "carpeta": "089_EX2-MED-023",
   "universidad": "BUAP",
   "id": "EX2-MED-023",
@@ -713,7 +713,7 @@
  },
  {
   "orden": 90,
-  "fecha": "2027-01-25",
+  "fecha": "2027-01-24",
   "carpeta": "090_EX2-QORG-023",
   "universidad": "UAEH",
   "id": "EX2-QORG-023",
@@ -721,7 +721,7 @@
  },
  {
   "orden": 91,
-  "fecha": "2027-01-26",
+  "fecha": "2027-01-25",
   "carpeta": "091_EX2-CDS-023",
   "universidad": "UV",
   "id": "EX2-CDS-023",
@@ -729,7 +729,7 @@
  },
  {
   "orden": 92,
-  "fecha": "2027-01-27",
+  "fecha": "2027-01-26",
   "carpeta": "092_EX2-BIO-023",
   "universidad": "UADY",
   "id": "EX2-BIO-023",
@@ -737,7 +737,7 @@
  },
  {
   "orden": 93,
-  "fecha": "2027-01-28",
+  "fecha": "2027-01-27",
   "carpeta": "093_EX2-MED-024",
   "universidad": "UACH",
   "id": "EX2-MED-024",
@@ -745,7 +745,7 @@
  },
  {
   "orden": 94,
-  "fecha": "2027-01-29",
+  "fecha": "2027-01-28",
   "carpeta": "094_EX2-QORG-024",
   "universidad": "BUAP",
   "id": "EX2-QORG-024",
@@ -753,7 +753,7 @@
  },
  {
   "orden": 95,
-  "fecha": "2027-01-30",
+  "fecha": "2027-01-29",
   "carpeta": "095_EX2-CDS-024",
   "universidad": "UANL",
   "id": "EX2-CDS-024",
@@ -761,7 +761,7 @@
  },
  {
   "orden": 96,
-  "fecha": "2027-01-31",
+  "fecha": "2027-01-30",
   "carpeta": "096_EX2-BIO-024",
   "universidad": "UV",
   "id": "EX2-BIO-024",
@@ -769,7 +769,7 @@
  },
  {
   "orden": 97,
-  "fecha": "2027-02-01",
+  "fecha": "2027-01-31",
   "carpeta": "097_EX2-MED-025",
   "universidad": "UAEH",
   "id": "EX2-MED-025",
@@ -777,7 +777,7 @@
  },
  {
   "orden": 98,
-  "fecha": "2027-02-02",
+  "fecha": "2027-02-01",
   "carpeta": "098_EX2-QORG-025",
   "universidad": "UADY",
   "id": "EX2-QORG-025",
@@ -785,7 +785,7 @@
  },
  {
   "orden": 99,
-  "fecha": "2027-02-03",
+  "fecha": "2027-02-02",
   "carpeta": "099_EX2-CDS-025",
   "universidad": "UACH",
   "id": "EX2-CDS-025",
@@ -793,7 +793,7 @@
  },
  {
   "orden": 100,
-  "fecha": "2027-02-04",
+  "fecha": "2027-02-03",
   "carpeta": "100_EX2-BIO-025",
   "universidad": "BUAP",
   "id": "EX2-BIO-025",
